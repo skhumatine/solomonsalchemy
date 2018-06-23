@@ -1,2 +1,2 @@
-# solomonshouse
-Solomon's House company website assets
+# solomonsalchemy
+Solomon's Alchemy company website assets
